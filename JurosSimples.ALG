@@ -19,4 +19,4 @@ js <- mo - c
 escreval ("Juros Simples: ", js)
 escreval ("Montante: ",mo)
 //Desenvolvido por Josimar Junior(www.informaticode.com.br)
-Fimalgoritmo
+Fimalgoritmo 

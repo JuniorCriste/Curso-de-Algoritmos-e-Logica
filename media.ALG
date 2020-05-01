@@ -22,4 +22,4 @@ Inicio
  senao
  escreva ("Infelizmente voce esta REPROVADO")
  fimse
-Fimalgoritmo
+Fimalgoritmo 

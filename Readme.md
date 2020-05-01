@@ -6,5 +6,5 @@
 ### Ótimos estudos turma!
 
 #### Disponível nas playlists de www.youtube.com/informaticode
-### Inscreva-se no canal para mais conteúdo, Att!
+### Inscreva-se no canal para mais conteúdo, Até mais!
 
