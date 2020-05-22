@@ -1,9 +1,11 @@
-Algoritmo "Media de 2 Notas"
+Algoritmo "Média de 2 Notas"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 12/3/2020
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
 Var
 // Seção de Declarações das variáveis 
 n1, n2, media: real

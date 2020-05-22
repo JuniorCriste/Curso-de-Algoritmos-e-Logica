@@ -1,11 +1,14 @@
 Algoritmo "Matriz"
-// 
+
 //  
 // Descrição   : Material do Curso de Algoritmos do
 //  canal Informaticode: www.informaticode.com.br
 // Autor(a)    : Junior Criste
 // @myself.junior    |     @informaticode
-// Data atual  : 17/5/2020
+
+
+
+
 Var
 // Seção de Declarações das variáveis 
 numero: vetor[1..9, 1..5] de inteiro

@@ -1,9 +1,14 @@
 Algoritmo "Jogo da Tabuada com Procedimentos e Funções"
-// 
+
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 19/5/2020
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+
+
 Var
 // Seção de Declarações das variáveis 
 n1, n2, resposta, i, j,c, acertos: inteiro

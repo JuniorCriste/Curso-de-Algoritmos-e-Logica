@@ -1,4 +1,14 @@
 Algoritmo "se...fimse"
+
+//  
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+
+
 // se...fimse
 // se...senao
 // escolha...caso

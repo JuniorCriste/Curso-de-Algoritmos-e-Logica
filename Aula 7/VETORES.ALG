@@ -1,6 +1,13 @@
 Algoritmo "vetores"
-// 
+
 //  
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+ 
 
 Var
 // Seção de Declarações das variáveis 

@@ -1,9 +1,14 @@
-Algoritmo "Exercicio3"
-// 
+Algoritmo "Exercicio 3"
+
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 15/5/2020
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+
+
 Var
 // Seção de Declarações das variáveis 
     numero1, numero2, soma, acertos, resposta: inteiro

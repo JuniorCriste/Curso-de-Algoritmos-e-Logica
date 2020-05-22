@@ -1,6 +1,13 @@
 Algoritmo "Funcoes"
 
-//
+//  
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+
 
 //    0-15 nao vota
 

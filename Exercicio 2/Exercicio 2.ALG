@@ -1,5 +1,14 @@
-Algoritmo "semnome"
-//
+Algoritmo "Exercicio 2"
+
+//  
+// Descrição   : Material do Curso de Algoritmos do
+//  canal Informaticode: www.informaticode.com.br
+// Autor(a)    : Junior Criste
+// @myself.junior    |     @informaticode
+
+
+
+
 //    0-15 nao vota
 //    16-17 voto opcional
 //    18-69 voto obrigatorio
