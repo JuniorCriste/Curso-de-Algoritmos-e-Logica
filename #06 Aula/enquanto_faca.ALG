@@ -22,8 +22,4 @@ Inicio
       contador <- contador + 1
       fimenquanto
      
-     
-
-
-     
 Fimalgoritmo

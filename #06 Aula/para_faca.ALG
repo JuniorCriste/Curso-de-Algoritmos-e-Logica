@@ -20,7 +20,5 @@ Inicio
   para contador de 1 ate 10 faca
   escreva(contador)
   fimpara
-
-
-     
+  
 Fimalgoritmo
