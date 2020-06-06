@@ -7,10 +7,17 @@
 #### Usufrua livremente, estude e faça melhor! 
 ### Ótimos estudos turma!
 
+# PASSOS:
+## Acesse essa [página](https://informaticode.store/.../CursoDeAlgoritmos)
+## Baixe o Visualg
+## Baixe a apostila
+## Inscreva-se no [canal](https://www.youtube.com/informaticode) e siga no [Instagram](https://www.instagram.com/informaticode)
+## Assista as aulas disponíveis na página gratuitamente
+
 <img src="https://1.bp.blogspot.com/-XGduzSwcG_4/XsRuIbITSdI/AAAAAAAAG8k/JMz6SYVIVkQX7rb55kCGLiiZGG3C_tR0gCLcBGAsYHQ/s640/Curso_de_Algoritmos.png"> 
 
 
-#### Disponível nas playlists de www.youtube.com/informaticode
+
 [Playlist e Download da Apostila e Visualg](https://informaticode.store/.../CursoDeAlgoritmos)
-### Inscreva-se no [canal](www.youtube.com/informaticode) para mais conteúdo, Até mais!
+### Inscreva-se no [canal](https://www.youtube.com/informaticode) para mais conteúdo, Até mais!
 
