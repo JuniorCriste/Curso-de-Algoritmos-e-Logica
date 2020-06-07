@@ -16,15 +16,15 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-       numero[1] <- 9
-       numero[2] <- 6
-       numero[3] <- 2
-       numero[4] <- 7
-       numero[5] <- 8
-       
-       para i de 1 ate 5 faca
-       escreva(numero[i])
-       i <- i + 1
-       fimpara
-       
+        numero[1] <- 9
+        numero[2] <- 6
+        numero[3] <- 2
+        numero[4] <- 7
+        numero[5] <- 8
+        
+        para i de 1 ate 5 faca
+           escreval("posiçao", i, " do vetor e: ", numero[i])
+        
+        fimpara
+
 Fimalgoritmo
