@@ -28,9 +28,9 @@ Inicio
   escreval("Entre com um valor inteiro:")
   leia(numero)
   
-  se (numero mod 2 = 0) entao
+  se (numero mod 2 = 0) entao    // se o resto da divisão for 0 é par
    escreval(numero, " e PAR!")
-   senao
+   senao                         // senao é impar.
    escreval(numero, " e IMPAR!")
   fimse
   
